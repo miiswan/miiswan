@@ -1,4 +1,5 @@
-### Olá! Me chamo Mirella e estudo Informática.
+### Olá! Me chamo Mirella 
+Curso Técnico - Informática para Internet
 
 <br/>
 <br/>
