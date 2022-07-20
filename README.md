@@ -4,8 +4,9 @@
 <br/>
 <br/>
 <div align="center">
-  <a href="https://github.com/miiswan">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=miiswan&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+
+  
+  <img height="160em"  src="https://awesome-github-stats.azurewebsites.net/user-stats/miiswan?cardType=github&theme=graywhite&Background=F9B7D7B6&Text=000000&Border=904A71&Ring=FF8BC3&Title=FF86B0" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miiswan&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   
