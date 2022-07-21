@@ -8,7 +8,7 @@ Curso Técnico - Informática para Internet
 
   
   <img height="160em"  src="https://awesome-github-stats.azurewebsites.net/user-stats/miiswan?cardType=github&theme=tokyonight&Background=54168600&Text=FF9FC7&Border=FFB4DB&Ring=D490FF&Title=FFA2CC" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miiswan&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miiswan&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>
