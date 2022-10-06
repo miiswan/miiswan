@@ -12,7 +12,7 @@ Curso Técnico - Informática para Internet
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="right" alt="Gio-pic" height="150" style="border-radius:50px;" src="https://picasion.com/download/992f6d9a2272a150264ebe663da34ef8/">
+  <img align="right" alt="Gio-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202210/338224_XmzEC5W8.png">
   
   ##
   
