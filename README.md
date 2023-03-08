@@ -1,6 +1,11 @@
 ### Olá! Me chamo Mirella 
 Curso Técnico - Informática para Internet
 
+Front-end Dev
+HTML 5
+CSS
+Estudando Javascript
+
 <br/>
 <br/>
 <br/>
