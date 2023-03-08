@@ -2,8 +2,11 @@
 Curso Técnico - Informática para Internet
 
 Front-end Dev
+<br>
 HTML 5
+<br>
 CSS
+<br>
 Estudando Javascript
 
 <br/>
