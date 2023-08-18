@@ -7,8 +7,9 @@ HTML 5
 <br>
 CSS
 <br>
-Estudando Javascript
-
+JavaScript
+<br>
+Phyton
 <br/>
 <br/>
 <br/>
