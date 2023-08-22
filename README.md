@@ -20,7 +20,7 @@ Phyton
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="right" alt="Gio-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202303/1342558_BLernRtL.png">
+  <img align="right" alt="Gio-pic" height="150" style="border-radius:50px;" src="blob:https://web.whatsapp.com/adce15ec-76ce-4ffe-8a7b-4eeeda8507b7">
   
   ##
   
