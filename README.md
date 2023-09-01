@@ -3,11 +3,8 @@
 
 - 🌱 I’m currently learning Python and NodeJS
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miiswan)](https://github.com/miiswan/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miiswan&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miiswan&layout=donut)](https://github.com/miiswan/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
