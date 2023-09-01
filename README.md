@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Python and NodeJS
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=miiswan)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miiswan)](https://github.com/miiswan/github-readme-stats)
 
 
 <h3 align="left">Connect with me:</h3>
