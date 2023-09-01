@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python and NodeJS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miiswan&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miiswan&layout=donuticons=true&theme=dracula)](https://github.com/miiswan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miiswan&layout=donuttheme=dracula)](https://github.com/miiswan/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
