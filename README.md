@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mirella</h1>
 <h3 align="center">Future Full Stack Developer</h3>
 
-- 🌱 I’m currently learning Python and NodeJS
+- 🌱 I’m currently learning PHP
 
 
 
